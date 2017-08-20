@@ -136,7 +136,9 @@ textarea.form-control {
 	height: 200px;
 }
 
-
+.table tbody>tr>td.vert-aling {
+	vertical-align: middle;
+}
 
 
 footer {
